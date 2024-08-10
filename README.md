@@ -2,7 +2,7 @@
   </p>
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l">
-    <img alt=Support height="550" src="https://telegra.ph/file/7c4fb86c9575d9c0f4357.jpg"
+    <img alt=Support height="400" src="https://telegra.ph/file/7c4fb86c9575d9c0f4357.jpg"
     <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=BASE+BY+DGXEON." alt="">
 </p>
@@ -36,11 +36,14 @@ please add the cred.json file to the session folder
 
 
 1. ***Star⭐ The Repository Must***
-2. ***Click [FORK](https://github.com/Limule3650/Death-Raphael-bug/fork)***
-3. ***[PAIR-CODE](https://toge-md-web.onrender.com) `Whatapp>Three dots>Linked devices>connect with phone number`***
+2.
+href='https://github.com/Limule3650/Death-Raphael-bug/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=Blue'/></a>
+     <br>
+     
+ Get pairing code.
     <br>
-    
-5. ***[QR-CODE](https://gpt-qr-code.onrender.com) `Whatapp>Three dots>Linked Devices`***
+<a href='https://https://death-raphael.onrender.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=red&color=red'/></a>
+
     <br>
   
 ***[𝗔𝗨𝗧𝗛𝗢𝗥 𝗢𝗙 𝗤𝗥 𝗖𝗢𝗗𝗘](https://github.com/DarkMakerofc)***
