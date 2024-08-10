@@ -43,7 +43,7 @@ href='https://github.com/Limule3650/Death-Raphael-bug/fork' target="_blank"><img
      
  Get pairing code.
     <br>
-<a href='https://https://death-raphael.onrender.com/' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=red&color=red'/></a>
+<a href='https://death-raphael.onrender.com/' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=red&color=red'/></a>
 
   
 ***[𝗔𝗨𝗧𝗛𝗢𝗥 𝗢𝗙 𝗤𝗥 𝗖𝗢𝗗𝗘](https://github.com/DarkMakerofc)***
