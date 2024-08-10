@@ -36,14 +36,13 @@ please add the cred.json file to the session folder
 
 
 1. ***Star⭐ The Repository Must***
-2. fork repo
 <a  
 href='https://github.com/Limule3650/Death-Raphael-bug/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=Blue'/></a>
-     <br>
+      <br> 
      
  Get pairing code.
     <br>
-<a href='https://https://death-raphael.onrender.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=red&color=red'/></a>
+<a href='https://https://death-raphael.onrender.com/' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=red&color=red'/></a>
 
     <br>
   
