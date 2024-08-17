@@ -1,11 +1,13 @@
-//base by Limule Solitarus 
+//base by Assistance
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Darklimule
-//Instagram: mikael_jordan
-//Telegram: t.me/darklimule
-//GitHub: @Limule3650
-//WhatsApp: +237693538738
-//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Darklimule
+//YouTube: @bemc... 
+//Instagram: kael_jordan
+//Telegram: t.me/vv
+//GitHub: @Tchouki242 
+//WhatsApp: +242069669959
+//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/... 
+
+
 
 const {
    spawn
