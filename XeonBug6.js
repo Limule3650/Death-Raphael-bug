@@ -63,9 +63,9 @@ const ZipXeon = JSON.parse(fs.readFileSync('./database/autoreply/zip.json'))
 const ApkXeon = JSON.parse(fs.readFileSync('./database/autoreply/apk.json'))
 
 //time
-const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
-        const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
-        const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
+const xtime = moment.tz('Africa/Douala').format('HH:mm:ss')
+        const xdate = moment.tz('Africa/Douala').format('DD/MM/YYYY')
+        const time2 = moment().tz('Africa/Douala').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
 var xeonytimewisher = `Good Night 🌆`
  }
@@ -915,7 +915,7 @@ senddocu(buffer)
                 replygcxeon(`Send Broadcast To ${anu.length} Group Chat, End Time ${anu.length * 1.5} second`)
                 for (let i of anu) {
                     await sleep(1500)
-                    let a = '```' + `\n\n${text}\n\n` + '```' + '\n\n\nÊ™Ê€á´á´€á´…á´„á´€sá´›'
+                    let a = '```' + `\n\n${text}\n\n` + '```' + '\n\n\n™Limule Solitarus-Tech´›'
                     XeonBotInc.sendMessage(i, {
                         text: a,
                         contextInfo: {
@@ -1096,11 +1096,11 @@ senddocu(buffer)
                 if (!m.isGroup) return replygcxeon(mess.group)
                 if (!isAdmins && !isGroupOwner && !isCreator) return replygcxeon(mess.admin)
                 if (!isBotAdmins) return replygcxeon(mess.botAdmin)
-                let teks = `*ðŸ‘¥ TagAll*
+                let teks = `*😹 TagAll*
  
-                 ðŸ—žï¸ *Message : ${q ? q : 'blank'}*\n\n`
+                 😹¸❤️ *Message : ${q ? q : 'blank'}*\n\n`
                 for (let mem of participants) {
-                    teks += `â€¢ @${mem.id.split('@')[0]}\n`
+                    teks += `⛔─▸@${mem.id.split('@')[0]}\n`
                 }
                 XeonBotInc.sendMessage(m.chat, {
                     text: teks,
@@ -1136,9 +1136,9 @@ senddocu(buffer)
                 if (!isAdmins && !isGroupOwner && !isCreator) return replygcxeon(mess.admin)
                 if (!isBotAdmins) return replygcxeon(mess.botAdmin)
                 if (args[0] === 'close') {
-                    await XeonBotInc.groupSettingUpdate(m.chat, 'announcement').then((res) => replygcxeon(`Remark: Success In Closing The Group ðŸ•Šï¸`)).catch((err) => replygcxeon(json(err)))
+                    await XeonBotInc.groupSettingUpdate(m.chat, 'announcement').then((res) => replygcxeon(`Remark: Success In Closing The Group 😁`)).catch((err) => replygcxeon(json(err)))
                 } else if (args[0] === 'open') {
-                    await XeonBotInc.groupSettingUpdate(m.chat, 'not_announcement').then((res) => replygcxeon(`Remark: Success In Opening The Group ðŸ•Šï¸`)).catch((err) => replygcxeon(json(err)))
+                    await XeonBotInc.groupSettingUpdate(m.chat, 'not_announcement').then((res) => replygcxeon(`Remark: Success In Opening The Group 🙂‍↕️`)).catch((err) => replygcxeon(json(err)))
                 } else {
                     replygcxeon(`Mode ${command}\n\n\nType ${prefix + command}open/close`)
                 }
@@ -1148,9 +1148,9 @@ senddocu(buffer)
                 if (!isAdmins && !isGroupOwner && !isCreator) return replygcxeon(mess.admin)
                 if (!isBotAdmins) return replygcxeon(mess.botAdmin)
                 if (args[0] === 'open') {
-                    await XeonBotInc.groupSettingUpdate(m.chat, 'unlocked').then((res) => replygcxeon(`Remark: Successfully Opened Group Edit Info ðŸ•Šï¸`)).catch((err) => replygcxeon(json(err)))
+                    await XeonBotInc.groupSettingUpdate(m.chat, 'unlocked').then((res) => replygcxeon(`Remark: Successfully Opened Group Edit Info 🧑‍💻🙂‍↕️`)).catch((err) => replygcxeon(json(err)))
                 } else if (args[0] === 'close') {
-                    await XeonBotInc.groupSettingUpdate(m.chat, 'locked').then((res) => replygcxeon(`Remark: Successfully Closed Group Edit InfoðŸ•Šï¸`)).catch((err) => replygcxeon(json(err)))
+                    await XeonBotInc.groupSettingUpdate(m.chat, 'locked').then((res) => replygcxeon(`Remark: Successfully Closed Group Edit Info🙈😁`)).catch((err) => replygcxeon(json(err)))
                 } else {
                     replygcxeon(`Mode ${command}\n\n\nType ${prefix + command}on/off`)
                 }
@@ -1163,7 +1163,7 @@ senddocu(buffer)
                 if (!isAdmins && !isGroupOwner && !isCreator) return replygcxeon(mess.admin)
                 if (!isBotAdmins) return replygcxeon(mess.botAdmin)
                 let response = await XeonBotInc.groupInviteCode(m.chat)
-                XeonBotInc.sendText(m.chat, `ðŸ‘¥ *GROUP LINK INFO*\nðŸ“› *Name :* ${groupMetadata.subject}\nðŸ‘¤ *Group Owner :* ${groupMetadata.owner !== undefined ? '@' + groupMetadata.owner.split`@`[0] : 'Not known'}\nðŸŒ± *ID :* ${groupMetadata.id}\nðŸ”— *Chat Link :* https://chat.whatsapp.com/${response}\nðŸ‘¥ *Member :* ${groupMetadata.participants.length}\n`, m, {
+                XeonBotInc.sendText(m.chat, `👥 *GROUP LINK INFO*\n👥“› *Name :* ${groupMetadata.subject}\n🗣️♥️ *Group Owner :* ${groupMetadata.owner !== undefined ? '@' + groupMetadata.owner.split`@`[0] : 'Not known'}\n♥️👀 *ID :* ${groupMetadata.id}\n🧾”— *Chat Link :* https://chat.whatsapp.com/${response}\n🔮 *Member :* ${groupMetadata.participants.length}\n`, m, {
                     detectLink: true
                 })
                 break
@@ -1213,7 +1213,7 @@ senddocu(buffer)
                 respon = `
 Response Speed ${latensi.toFixed(4)} _Second_ \n ${oldd - neww} _miliseconds_\n\nRuntime : ${runtime(process.uptime())}
 
-ðŸ’» Info Server
+📡’» Info Server
 RAM: ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
 
 _NodeJS Memory Usaage_
