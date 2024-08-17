@@ -1,36 +1,36 @@
-//base by Limule Solitarus 
+//base by Assistance
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Darklimule
-//Instagram: mikael_jordan
-//Telegram: t.me/darklimule
-//GitHub: @Limule3650
-//WhatsApp: +237693538738
-//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Darklimule
+//YouTube: @bemc... 
+//Instagram: kael_jordan
+//Telegram: t.me/vv
+//GitHub: @Tchouki242 
+//WhatsApp: +242069669959
+//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/... 
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "242069669959"
-global.ownername = "🐉Solitarus"
-global.ytname = "YT: Deaethgun635"
-global.socialm = "GitHub: Limule3650"
+global.ownername = "🐉Assistance"
+global.ytname = "YT: Assistance242"
+global.socialm = "GitHub: Tchouki242"
 global.location = "India, Rampur, city"
 
 global.ownernumber = '242069669959'  //creator number
-global.ownername = '🐉Solitarus' //owner name
-global.botname = 'DEATH RAPHAEL-BUG' //name of the bot
+global.ownername = '🐉Assistance' //owner name
+global.botname = 'ASSISTANCE-BUG' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Solitarus\n\nContact: +237698581946'
+global.author = 'Assistance\n\nContact: +242069669959'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Limule Solitarus Bot Inc."
+global.wm = "Assistance Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
+global.link = 'https://chat.whatsapp.com/C5QLzSAmXER7wBGerwVWrF'
 
 //custom prefix
 global.prefa = ['','!','.','#','&','•']
