@@ -6,7 +6,7 @@
     <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=BASE+BY+DGXEON." alt="">
 </p>
-<h1 align="center"> DEATH-RAPHAEL-BUG </h1>
+<h1 align="center"> ASSISTANCE-BUG </h1>
 </h1>
 <p align="center"> Here's the channel support 
 <p align="center"> 
