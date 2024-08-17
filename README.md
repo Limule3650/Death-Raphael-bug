@@ -165,7 +165,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 - [Download Libwebp](https://developers.google.com/speed/webp/download)
 
 ```cmd
-> git clone https://github.com/Limule3650/Death-Raphael-bug.git
+> git clone https://github.com/Tchouki242/ASSISTANCE-BUG
 ```
 ```
 > cd Death-Raphael-bug
@@ -181,7 +181,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
 
 ##
-- ***Star ⭐ My Repo If You Like  DEATH RAPHAEL-BUG.***
+- ***Star ⭐ My Repo If You Like  ASSISTANCE-BUG.***
 
 ##
 
@@ -200,4 +200,4 @@ npm i -g forever && forever index.js && forever save && forever logs
 
 - ***Credit : [TOGE](https://github.com/toge012345) for temporary qr and pairing code***
 
-## Note that i have not yet finished session id so we will use for [TOGE-BUG-BOT] thanks for understanding ##
+## Note that i have not yet finished session id so we will use for [ASSISTANCE-BUG] thanks for understanding ##
