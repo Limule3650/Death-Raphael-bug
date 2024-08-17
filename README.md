@@ -10,7 +10,7 @@
 </h1>
 <p align="center"> Here's the channel support 
 <p align="center"> 
- <a href="https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l" target="_blank">
+ <a href="https://whatsapp.com/channel/0029Vam6XQIADTOCOeRLPv18" target="_blank">
     <img alt="whatsapp channel" src="https://img.shields.io/badge/ Whatsapp Support channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=red" />
  </a>   
 
