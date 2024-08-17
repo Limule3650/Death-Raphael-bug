@@ -1,4 +1,4 @@
-**DEAT-RAPHAEL-BUG MULTI DEVICE WHATSAPP BOT**
+**ASSISTANCE-BUG MULTI DEVICE WHATSAPP BOT**
   </p>
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l">
