@@ -1,4 +1,4 @@
-//base by Limule Solitarus 
+//base by ASSISTANCE 
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @Darklimule
 //Instagram: mikael_jordan

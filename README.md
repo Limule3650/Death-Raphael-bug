@@ -1,25 +1,25 @@
-**DEATH-RAPHAEL-BUG MULTI DEVICE WHATSAPP BOT**
+**ASSISTANCE-BUG MULTI DEVICE WHATSAPP BOT**
   </p>
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l">
-    <img alt=Support height="400" src="https://telegra.ph/file/7c4fb86c9575d9c0f4357.jpg"
+  <a href="https://chat.whatsapp.com/C5QLzSAmXER7wBGerwVWrF">
+    <img alt=Support height="400" src="https://telegra.ph/file/88846c84dc93146be24c6.jpg"
     <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=BASE+BY+DGXEON." alt="">
 </p>
-<h1 align="center"> DEATH-RAPHAEL-BUG </h1>
+<h1 align="center"> ASSISTANCE-BUG </h1>
 </h1>
 <p align="center"> Here's the channel support 
 <p align="center"> 
- <a href="https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l" target="_blank">
+ <a href="https://whatsapp.com/channel/0029Vam6XQIADTOCOeRLPv18" target="_blank">
     <img alt="whatsapp channel" src="https://img.shields.io/badge/ Whatsapp Support channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=red" />
  </a>   
 
  
-### **ALERTE ⚠️**
+### **Attention ⚠️**
 please add the cred.json file to the session folder
 
- ### ℹ️ **ABOUT DEATH-RAPHAEL-BUG**
- Introducing Death-Raphael-bug , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+ ### ▶️ **ABOUT ASSISTANCE-BUG**
+ Introducing ASSISTANCE-BUG, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 
 `Ｆ•Ｅ•Ａ•Ｔ•Ｕ•Ｒ•Ｅ•Ｓ`
@@ -165,7 +165,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 - [Download Libwebp](https://developers.google.com/speed/webp/download)
 
 ```cmd
-> git clone https://github.com/Limule3650/Death-Raphael-bug.git
+> git clone https://github.com/Tchouki242/ASSISTANCE-BUG
 ```
 ```
 > cd Death-Raphael-bug
@@ -181,7 +181,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
 
 ##
-- ***Star ⭐ My Repo If You Like  DEATH RAPHAEL-BUG.***
+- ***Star ⭐ My Repo If You Like  ASSISTANCE-BUG.***
 
 ##
 
@@ -200,4 +200,4 @@ npm i -g forever && forever index.js && forever save && forever logs
 
 - ***Credit : [TOGE](https://github.com/toge012345) for temporary qr and pairing code***
 
-## Note that i have not yet finished session id so we will use for [TOGE-BUG-BOT] thanks for understanding ##
+## Note that i have not yet finished session id so we will use for [ASSISTANCE-BUG] thanks for understanding ##
