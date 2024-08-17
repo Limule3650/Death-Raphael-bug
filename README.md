@@ -15,11 +15,11 @@
  </a>   
 
  
-### **ALERTE ⚠️**
+### **Attention ⚠️**
 please add the cred.json file to the session folder
 
- ### ℹ️ **ABOUT DEATH-RAPHAEL-BUG**
- Introducing Death-Raphael-bug , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+ ### ▶️ **ABOUT ASSISTANCE-BUG**
+ Introducing ASSISTANCE-BUG, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 
 `Ｆ•Ｅ•Ａ•Ｔ•Ｕ•Ｒ•Ｅ•Ｓ`
