@@ -11,14 +11,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉 Limule Solitarus"
+global.ownernomer = "242066328691"
+global.ownername = "🐉 dark joker"
 global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "India, Rampur, city"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉 Limule Solitarus' //owner name
+global.ownernumber = '242066328691'  //creator number
+global.ownername = '🐉 dark joker' //owner name
 global.botname = 'DEATH RAPHAEL-BUG' //name of the bot
 
 //sticker details
@@ -33,7 +33,7 @@ global.wm = "Limule Solitarus Bot Inc."
 global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
 
 //custom prefix
-global.prefa = ['','!','.','#','&','•']
+global.prefa = ['!']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
